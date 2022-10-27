@@ -1,4 +1,6 @@
-# 🤖 [Scrath Space]  Machine Learning & Deep Learning projects and resources
+# 🤖 my source code for machine learning & deep learning projects and research
+
+<br>
 
 
 * [ML Notebooks](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/ml_notebooks): jupyter notebooks with ML examples
@@ -9,10 +11,11 @@
 * [Data Engineering](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/data-engineering): resources for deployment
 
 
+<br>
 
 ---------
 
-## Learning Resources
+## resources
 
 
 * [Energy-based Approaches to Representation Learning - Yann LeCun](https://www.youtube.com/watch?v=m17B-cXcZFI&amp=&t=524s).
