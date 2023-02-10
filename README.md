@@ -1,4 +1,4 @@
-# 🤖 my source code for machine learning & deep learning projects and research
+## 🧠🌸 my source code for machine learning & deep learning projects and research
 
 <br>
 
@@ -13,10 +13,13 @@
 
 <br>
 
+
 ---------
 
-## resources
+### resources
 
+
+<br>
 
 * [Energy-based Approaches to Representation Learning - Yann LeCun](https://www.youtube.com/watch?v=m17B-cXcZFI&amp=&t=524s).
 * [Stanford's Machine Learning Course](http://cs229.stanford.edu/).
