@@ -9,7 +9,6 @@
 * [deep art](deep_art): my deep learning generated art models
 * [ml numpy examples](numpy_examples): my code and examples using Numpy
 * [data engineering](data-engineering): some resources for deployment
-* [airflow resources](airflow): some resources for deployment with airflow
 
 
 <br>
