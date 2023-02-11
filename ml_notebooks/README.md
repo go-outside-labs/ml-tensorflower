@@ -1,6 +1,19 @@
-## Jupyter Notebooks
+## My Jupyter Notebooks
 
-### Installing
+<br>
+
+
+* [My Deep Dreams (with Caffe) adapted, on notebook.community](https://notebook.community/bt3gl/Machine-Learning-Resources/machine_learning_examples/deep_art/deepdream/examples/dream) 
+
+<br>
+
+---
+
+### Installing and running these notebooks
+
+
+<br>
+
 
 Install any dependences for [Jupyter](http://jupyter.readthedocs.io/en/latest/install.html):
 
@@ -9,9 +22,9 @@ $ apt-get install build-essential python3-dev
 $ pip install jupyter
 ```
 
-### Running
 
-On the notebook directory:
+
+On the notebook directory, simply run:
 
 ```shell
 $ jupyter notebook
@@ -19,7 +32,3 @@ $ jupyter notebook
 
 
 
-
-### Basics
-
-* A notebook is made up of a number of cells with Python code. You can execute a cell by clicking on it and pressing ```Shift-Enter```.
