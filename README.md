@@ -1,14 +1,15 @@
-## 🧠🌸 my source code for machine learning & deep learning projects and research
+## 🧠🌸 my projects and source code for ml & deep learning
 
 <br>
 
 
-* [ML Notebooks](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/ml_notebooks): jupyter notebooks with ML examples
-* [Tensorflow](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/tensorflow_examples): learning examples
-* [Caffe](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/caffe): A example using Caffe library (docker container)
-* [DeepArt](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/deep_art): deep learning generated art
-* [Numpy](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/numpy_examples): my code and examples using Numpy
-* [Data Engineering](https://github.com/bt3gl-labs/Scratch-Space-Machine-Learning-Projects-and-Research/tree/master/data-engineering): resources for deployment
+* [ml notebooks](ml_notebooks): my jupyter notebooks with ml models
+* [tensorflow examples](tensorflow_examples): tensorflow learning examples
+* [caffe](caffe): an example using caffe library on docker container
+* [deep art](deep_art): my deep learning generated art models
+* [ml numpy examples](numpy_examples): my code and examples using Numpy
+* [data engineering](data-engineering): some resources for deployment
+* [airflow resources](airflow): some resources for deployment with airflow
 
 
 <br>
