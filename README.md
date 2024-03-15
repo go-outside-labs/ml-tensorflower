@@ -1,4 +1,4 @@
-## 🧠🌸 my projects and source code for ml && deep learning
+## 🧠🌸 my projects and source code for ml && deep learning experiments
 
 <br>
 
